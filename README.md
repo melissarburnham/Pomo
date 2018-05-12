@@ -1,4 +1,4 @@
-Click [here] (https://still-sea-86679.herokuapp.com/) for a live version of this site. 
+Click [here](https://still-sea-86679.herokuapp.com/) for a live version of this site. 
 
 ## Description
 Pomo is a teacher tool application with a dual purpose. It teaches students time management by using a pmodoro timer. Also, it is a behavior management tool that awards students coins for completing tasks and following directions. 
