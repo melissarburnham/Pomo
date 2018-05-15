@@ -12,4 +12,19 @@ Development:  <br>
 ESLint (enforcement of specific code style), node-sass-middleware, mocha, chai, chai-http, Sketch app (low/high fidelity mock-ups and prototyping)
 
 ## Demo
+Teachers can sign up or log in to create a class. Each class has a password for all students, but teachers can customize login names for students. 
+![signup](https://github.com/melissarburnham/Pomo/blob/master/Demo/signupandaddclass.gif "Sign Up")
+
+In each class, teachers can add/delete classes and students. 
+![edit class](https://github.com/melissarburnham/Pomo/blob/master/Demo/deleteclassaddstudent.gif "edit class")
+
+Teachers can differentiate by adding different tasks and timer amounts to each student. 
+![add task](https://github.com/melissarburnham/Pomo/blob/master/Demo/assigntaskandlogout.gif "add task")
+
+Students can log in to see their timer, task, and coin value.
+![student dashboard](https://github.com/melissarburnham/Pomo/blob/master/Demo/studentdashboard.gif "student dashboard")
+
+When the timer runs out, a 5 minute break timer (set to 10 seconds for this purpose) will appear. Then, the original timer will return until a student hits done. 
+![break timer](https://github.com/melissarburnham/Pomo/blob/master/Demo/endoftimer.gif "break timer")
+
 
