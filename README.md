@@ -27,4 +27,7 @@ Students can log in to see their timer, task, and coin value.
 When the timer runs out, a 5 minute break timer (set to 10 seconds for this purpose) will appear. Then, the original timer will return until a student hits done. 
 ![break timer](https://github.com/melissarburnham/Pomo/blob/master/Demo/endoftimer.gif "break timer")
 
+When students hit done, they are rewarded the coins. They can also view the store at anytime. 
+![store](https://github.com/melissarburnham/Pomo/blob/master/Demo/doneandstore.gif "store")
+
 
